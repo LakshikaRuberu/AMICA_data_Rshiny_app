@@ -6,5 +6,7 @@ Welcome to the R shiny app which could  quantitatively predict the problemtic us
 # How to Launch
 
 The preferred way to launch the app is through runGitHub:
+Please run the following command in your Rscript
+
 
 runGitHub( "AMICA_data_Rshiny_app", "LakshikaRuberu")
